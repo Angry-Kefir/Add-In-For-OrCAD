@@ -1,0 +1,16 @@
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\AddInForOrcad.dll
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\AddInForOrcad.pdb
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\AddInForOrcad.dll.manifest
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\AddInForOrcad.vsto
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\Microsoft.Office.Tools.Common.dll
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\Microsoft.Office.Tools.dll
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\Microsoft.Office.Tools.Excel.dll
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\obj\Debug\AddInForOrcad.Properties.Resources.resources
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\obj\Debug\AddInForOrcad.SampleRibbon.resources
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\obj\Debug\AddInForOrcad.csproj.GenerateResource.Cache
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\obj\Debug\AddInForOrcad.dll
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\obj\Debug\AddInForOrcad.pdb
+D:\YandexDisk\Программирование\AddInForOrcad\AddInForOrcad\AddInForOrcad\obj\Debug\AddInForOrcad.csprojResolveAssemblyReference.cache
